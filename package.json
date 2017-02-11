@@ -1,5 +1,5 @@
 {
-  "name": "burger",
+  "name": "burgersequel",
   "version": "1.0.0",
   "description": "Single Page Burger Creation App",
   "main": "index.js",
@@ -19,12 +19,14 @@
   "homepage": "https://github.com/allanacreech/burger#readme",
   "dependencies": {
     "body-parser": "^1.16.0",
-    "express": "^4.14.0",
+    "express": "^4.14.1",
     "express-handlebars": "^3.0.0",
     "method": "^2.0.0",
     "method-override": "^2.3.7",
-    "mysql": "^2.12.0",
-    "override": "0.0.1"
+    "mysql": "^2.13.0",
+    "override": "0.0.1",
+    "sequelize": "^3.30.2",
+    "sequelize-cli": "^2.5.1"
   },
   "devDependencies": {},
   "keywords": [

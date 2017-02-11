@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Dentist1!",
+    "database": "sequelburger_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Dentist1!",
+    "database": "sequelburger_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Dentist1!",
+    "database": "sequelburger_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
